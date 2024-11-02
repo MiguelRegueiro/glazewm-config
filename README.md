@@ -4,7 +4,7 @@ This repo contains my configuration file for **GlazeWM**, a window manager for W
 
 ### Features ✨
 
-- **Custom Colors** 🎨: Includes a palette for window borders, with colors for focused (`#8c49ff`) ![#8c49ff](https://via.placeholder.com/15/8c49ff/000000?text=+) and unfocused (`#000000`) ![#000000](https://via.placeholder.com/15/000000/ffffff?text=+) windows.
+- **Custom Colors** 🎨: Includes a palette for window borders, with colors for focused (`#8c49ff`) ![#8c49ff](https://via.placeholder.com/15/8c49ff/8c49ff?text=+) and unfocused (`#000000`) ![#000000](https://via.placeholder.com/15/000000/000000?text=+) windows.
 - **Window Management** 🖼️: Manage gaps between windows and screen edges, with customized inner (`2px`) and outer (`12px`) gaps. Fullscreen mode is disabled, and Zebar has been removed from the configuration.
 - **Keybindings** ⌨️: Navigate, move, and resize windows with ease.
 
@@ -21,7 +21,6 @@ Feel free to modify the configuration to make it your own! 😊
 Here's how the setup looks in action:
 
 ![image](https://github.com/user-attachments/assets/6b012944-0268-48a2-ae09-57fc22b4d2d3)
-
 ### Original Repo 🔗
 
 The original repository with the GlazeWM tiling window manager can be found here:
