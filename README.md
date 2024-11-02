@@ -4,18 +4,14 @@ This repo contains my configuration file for **GlazeWM**, a window manager for W
 
 ### Features ✨
 
-- **Custom Colors** 🎨: Includes a palette with colors like `rosewater`, `mauve`, `teal`, etc.
-- **Window Management** 🖼️: Manage gaps, focused window styles, and more. Fullscreen mode is disabled.
+- **Custom Colors** 🎨: Includes a palette for window borders, with colors for focused (`#8c49ff`) and unfocused (`#000000`) windows.
+- **Window Management** 🖼️: Manage gaps between windows and screen edges, with customized inner (`2px`) and outer (`12px`) gaps. Fullscreen mode is disabled, and Zebar has been removed from the configuration.
 - **Keybindings** ⌨️: Navigate, move, and resize windows with ease.
 
 ### Usage 🛠️
 
-1. **Clone the Repo**:
-   ```sh
-   git clone https://github.com/MiguelRegueiro/glazewm-config.git
-   ```
-2. **Replace the Default Config File**:
-   Copy my `config.yaml` and replace the default configuration file in your GlazeWM configuration directory.
+1. **Backup the Original Config File**: Make a copy of the original `config.yaml` in your GlazeWM configuration directory to keep as a backup.
+2. **Replace the Config File**: Copy my `config.yaml` into your GlazeWM configuration directory, replacing the default configuration file.
 3. **Restart GlazeWM** to apply the new settings.
 
 Feel free to modify the configuration to make it your own! 😊
@@ -25,6 +21,8 @@ Feel free to modify the configuration to make it your own! 😊
 Here's how the setup looks in action:
 
 ![image](https://github.com/user-attachments/assets/6b012944-0268-48a2-ae09-57fc22b4d2d3)
+
+Feel free to add your own screenshots to showcase your personalized setup!
 
 ### Original Repo 🔗
 
