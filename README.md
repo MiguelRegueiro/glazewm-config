@@ -26,5 +26,11 @@ Here's how the setup looks in action:
 
 ![image](https://github.com/user-attachments/assets/6b012944-0268-48a2-ae09-57fc22b4d2d3)
 
+### Original Repo 🔗
+
+The original repository with the GlazeWM program can be found here:
+[GlazeWM Original Repo](https://github.com/glzr-io/glazewm)
+
+
 
 
