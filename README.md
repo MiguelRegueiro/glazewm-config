@@ -14,8 +14,8 @@ This repo contains my configuration file for **GlazeWM**, a window manager for W
    ```sh
    git clone https://github.com/MiguelRegueiro/glazewm-config.git
    ```
-2. **Place the Config File**:
-   Copy `glazewm.yaml` to your GlazeWM configuration directory.
+2. **Replace the Default Config File**:
+   Copy my `config.yaml` and replace the default configuration file in your GlazeWM configuration directory.
 3. **Restart GlazeWM** to apply the new settings.
 
 Feel free to modify the configuration to make it your own! 😊
@@ -30,7 +30,3 @@ Here's how the setup looks in action:
 
 The original repository with the GlazeWM tiling window manager can be found here:
 [GlazeWM Original Repo](https://github.com/glzr-io/glazewm)
-
-
-
-
