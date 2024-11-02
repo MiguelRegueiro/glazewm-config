@@ -4,7 +4,7 @@ This repo contains my configuration file for **GlazeWM**, a window manager for W
 
 ### Features ✨
 
-- **Custom Colors** 🎨: Includes a palette for window borders, with colors for focused (`#8c49ff`) ![#8c49ff](https://via.placeholder.com/10/8c49ff?text=+) and unfocused (`#000000`) ![#000000](https://via.placeholder.com/10/000000?text=+) windows.
+- **Custom Colors** 🎨: Includes a palette for window borders, with colors for focused (`#8c49ff`) ![#8c49ff](https://via.placeholder.com/15/8c49ff/000000?text=+) and unfocused (`#000000`) ![#000000](https://via.placeholder.com/15/000000/ffffff?text=+) windows.
 - **Window Management** 🖼️: Manage gaps between windows and screen edges, with customized inner (`2px`) and outer (`12px`) gaps. Fullscreen mode is disabled, and Zebar has been removed from the configuration.
 - **Keybindings** ⌨️: Navigate, move, and resize windows with ease.
 
