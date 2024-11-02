@@ -4,10 +4,8 @@ This repo contains my configuration file for **GlazeWM**, a window manager for W
 
 ### Features ✨
 
-
 - **Custom Colors** 🎨: Includes a palette for window borders, with colors for focused and unfocused windows:
 
-  | Color Name     | Hex Code  | Swatch       |
   | -------------- | --------- | ------------ |
   | Focused Window | `#8c49ff` | ![#8c49ff](https://via.placeholder.com/15/8c49ff/8c49ff?text=+) |
   | Unfocused Window | `#000000` | ![#000000](https://via.placeholder.com/15/000000/000000?text=+) |
