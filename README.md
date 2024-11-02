@@ -1,6 +1,7 @@
 # GlazeWM Configuration 🚀
 
 This repo contains my configuration file for **GlazeWM**, a window manager for Windows.
+**Note**: Zebar has been removed and the Windows taskbar is hidden in this configuration.
 
 ### Features ✨
 
@@ -17,9 +18,11 @@ This repo contains my configuration file for **GlazeWM**, a window manager for W
 
 1. **Backup the Original Config File**: Make a copy of the original `config.yaml` in your GlazeWM configuration directory to keep as a backup.
 2. **Replace the Config File**: Copy my `config.yaml` into your GlazeWM configuration directory, replacing the default configuration file.
-3. **Restart GlazeWM** to apply the new settings.
+3. **Delete Zebar and Hide Windows Taskbar** to make the setup look like the screenshot.
+4. **Restart GlazeWM** to apply the new settings.
 
-Feel free to modify the configuration to make it your own! 😊
+
+Feel free to modify the configuration to make it your own!
 
 ### Screenshot 📸
 
