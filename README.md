@@ -28,7 +28,7 @@ Here's how the setup looks in action:
 
 ### Original Repo 🔗
 
-The original repository with the GlazeWM program can be found here:
+The original repository with the GlazeWM tiling window manager can be found here:
 [GlazeWM Original Repo](https://github.com/glzr-io/glazewm)
 
 
