@@ -20,3 +20,4 @@ This repo contains my configuration file for **GlazeWM**, a window manager for W
 
 Feel free to modify the configuration to make it your own! 😊
 
+![image](https://github.com/user-attachments/assets/6b012944-0268-48a2-ae09-57fc22b4d2d3)
