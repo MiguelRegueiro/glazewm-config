@@ -28,7 +28,8 @@ Feel free to modify the configuration to make it your own!
 
 Here's how the setup looks in action:
 
-![image](https://github.com/user-attachments/assets/6b012944-0268-48a2-ae09-57fc22b4d2d3)
+![image](https://github.com/user-attachments/assets/82b685ac-2f9b-414f-948f-a2cdbdae1124)
+
 
 ### Original Repo 🔗
 
